@@ -14,9 +14,18 @@ To be added:
    As of now, there is no "0x" ("10" is 16).
 3) The space to the right in the screenshot was intended to have control widgets
    for scaling, etc...
-4) There is no axis indicator on the entry fields. The top is y and the bottom is x.
+4) There is no axis indicator on the entry fields. The top is x and the bottom is y.
+5) Overflow check needs to be added
 
 How to use:
+
+Type parametric equation in fields using "t" as parameter (see screenshots for example).
+
+Supported:
+binary C operators:
++ - * / % << >> & | ^
+unary C operators:
+- ~ (limitation: there cannot be consecutive unary tokens)
 
 ---
 
@@ -29,4 +38,4 @@ To Install FLTK:
 
 To compile and run:
 
-    Copy Makefile and main.cpp in some directory and type make.
+    Copy Makefile and main.cpp in some directory and type make. Run "./primarygui"
