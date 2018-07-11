@@ -20,7 +20,7 @@ How to use:
 
 Type parametric equation in fields using "t" as parameter (see screenshots for example).
 
-Click "Evaluate".
+Click "EVALUATE".
 
 Hover mouse to see unscaled coordinates.
 
@@ -32,6 +32,8 @@ Hover mouse to see unscaled coordinates.
 
 
 Supported:
+
+Parenthesis
 
 binary C operators:
 \+ \- \* \/ \% << >> \& \| \^
