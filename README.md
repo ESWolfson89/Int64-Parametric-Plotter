@@ -9,9 +9,8 @@ This program is incomplete.
 
 To be added:
 1) Ability to zoom
-2) All numbers accepted are in hexadecimal.
-   Decimal should be allowed as well with 0x preceding hex numbers.
-   As of now, there is no "0x" ("10" is 16).
+2) All numbers currently accepted are in hexadecimal.
+   As of now, there is no "0x" prefix ("1f" is 31).
 3) The space to the right in the screenshots was intended to have control widgets
    for scaling, etc...
 4) There is no axis indicator on the entry fields. The top is x and the bottom is y.
