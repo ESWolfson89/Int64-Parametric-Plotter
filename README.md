@@ -22,6 +22,7 @@ How to use:
 Type parametric equation in fields using "t" as parameter (see screenshots for example).
 
 Supported:
+
 binary C operators:
 \+ \- \* \/ \% << >> \& \| \^
 
