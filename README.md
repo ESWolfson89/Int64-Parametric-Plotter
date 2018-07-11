@@ -23,9 +23,10 @@ Type parametric equation in fields using "t" as parameter (see screenshots for e
 
 Supported:
 binary C operators:
-+ - * / % << >> & | ^
+\+ \- \* \/ \% << >> \& \| \^
+
 unary C operators:
-- ~ (limitation: there cannot be consecutive unary tokens)
+\- \~ (limitation: there cannot be consecutive unary tokens)
 
 ---
 
