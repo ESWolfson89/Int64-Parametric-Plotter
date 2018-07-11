@@ -1,5 +1,5 @@
 # Int64-Parametric-Plotter
-Plots a subset of valid arithmetic and bitwise expressions in C
+Plots a subset of valid arithmetic and bitwise C expression pairs as parametric plots.
 
 I ran this on Ubuntu 16.04. Uses C++11.
 
