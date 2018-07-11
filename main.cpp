@@ -852,7 +852,7 @@ void modifyExpressionYString_CB(Fl_Widget *w, void *data) {
 }
 
 int main(int argc, char *argv[]) {
-  Fl_Double_Window *window = new Fl_Double_Window(1024,600,"i64 parametric equation plotter");
+  Fl_Double_Window *window = new Fl_Double_Window(1024,600,"I64 parametric plotter");
 
   visualizer * vis = new visualizer(14,66,764,520);
 
