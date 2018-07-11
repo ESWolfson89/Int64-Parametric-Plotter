@@ -21,6 +21,9 @@ How to use:
 
 Type parametric equation in fields using "t" as parameter (see screenshots for example).
 
+Hover mouse to see unscaled coordinates.
+
+
 ![Alt text](screenshot1.png?raw=true "Screenshot1")
 
 
