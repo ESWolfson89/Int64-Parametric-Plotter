@@ -20,6 +20,8 @@ How to use:
 
 Type parametric equation in fields using "t" as parameter (see screenshots for example).
 
+Click "Evaluate".
+
 Hover mouse to see unscaled coordinates.
 
 
